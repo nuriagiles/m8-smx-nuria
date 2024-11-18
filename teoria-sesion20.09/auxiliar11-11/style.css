@@ -1,7 +1,7 @@
 body{
     margin: 0;
     background-image: url("photo-1457369804613-52c61a468e7d.jpg");
-    padding: 70px;
+    padding: 50px;
 }
 
 main{
@@ -43,7 +43,9 @@ ul li{
     color: pink;
     border: none;
 }
-
+#contenido{
+    color: blue;
+}
 .laquetuquieras{
     color: white;
 }
