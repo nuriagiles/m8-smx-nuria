@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+.hubs{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.hubs2{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    margin: 100px;
+}
+
+header button{
+    padding: 20px;
+    background-color: rgb(84, 79, 255);
+    border: 0;
+    color: white;
+    text-align: left;
+    margin: 20px 20px 20px 0px;
+}
+header img{
+    display: flex;
+}
+
+footer{
+    background-color: aliceblue;
+    font-family: "Libre Baskerville", serif;
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    padding: 200px ;
+    margin: 30px;
+}
